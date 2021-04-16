@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491582592484",
+    "firebase_url": "https://swagers-a4e9f.firebaseio.com",
+    "project_id": "swagers-a4e9f",
+    "storage_bucket": "swagers-a4e9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491582592484:android:46978b5d9ef7c517b663f1",
+        "android_client_info": {
+          "package_name": "com.example.swagers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491582592484-1gb35rqtad74aath64k6k777gcn8uj6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7benAo86DUCI7LDdqBgDN4KXcjb-txNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491582592484-1gb35rqtad74aath64k6k777gcn8uj6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
